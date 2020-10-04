@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  /* display: flex; */
+  text-align: center;
+  /* align-content: center; */
+}
+
+#options {
+  border: 7px inset rgb(136, 104, 104);
+  margin: none;
+  background: linear-gradient(45deg, gray, gray);
+}
+
+button {
+  padding: 10px;
+  cursor: crosshair;
+}
+img {
+  border: 3px solid firebrick;
+  max-width: 80vmin;
+}
+#pict1 {
+  height: 80vmin;
+}
+#next {
+  margin-left: 30px;
+}
