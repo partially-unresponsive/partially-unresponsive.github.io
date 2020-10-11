@@ -7,3 +7,7 @@ Here I'll be working with HTML tutorials and resources, trying to figure out Git
 ## Subheader
 
 I should have this change be done inside VS Code using Git version control.
+
+## Subheader 2
+
+Now I should have changed this using the command line (Git Bash)
