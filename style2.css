@@ -7,9 +7,9 @@ body {
 }
 
 #options {
-  border: 7px inset rgb(136, 104, 104);
+  border: 7px inset rgb(189, 25, 25);
   margin: none;
-  background: linear-gradient(45deg, gray, gray);
+  background: linear-gradient(45deg, rgb(230, 58, 58), rgb(184, 26, 26));
 }
 
 button {
