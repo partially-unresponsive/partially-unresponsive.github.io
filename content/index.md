@@ -2,6 +2,7 @@
 title: Welcome to Quartz
 ---
 # issy's misdemeaning characters
+Meow meow, another edit
 Nya nya nya, this should be the right repo, right?
 
 I exist. There are pieces of me scattered around the world, beckoning to be pulled closer together by a force, yet that force is ever weak. Aspects of myself exist only to satisfy a beckoning spirit that chases and chases for freedom, yet can only live restrained, in the safety of companionship under someone else's roof.
