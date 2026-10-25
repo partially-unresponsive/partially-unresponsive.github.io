@@ -13,5 +13,8 @@ Changes must be made from within the `v5` branch located in the `~/github/<.io p
 - Write/edit .md files in `quartz/content/` folder
 - `git add content/ && git commit -m "blog: [commit message]" && git push`
 ## References
-- [docs](https://quartz.jzhao.xyz) -> Documentation for Quartz 5
+- [docs](https://quartz.jzhao.xyz)    -> Documentation for Quartz 5
 - [celeste](https://youtu.be/dwLW9InfIyU) -> peak.
+## Socials
+- [letterboxd](https://letterboxd.com/jercypackson/) -> movie reviews
+- [goodreads](https://www.goodreads.com/user/show/151053599-saidano)  -> book reviews
