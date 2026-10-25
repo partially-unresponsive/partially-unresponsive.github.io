@@ -2,15 +2,16 @@
 title: welcome
 ---
 # issy's misdemeaning characters
-Meow meow, another edit
-Nya nya nya, this should be the right repo, right?
-
-I exist. There are pieces of me scattered around the world, beckoning to be pulled closer together by a force, yet that force is ever weak. Aspects of myself exist only to satisfy a beckoning spirit that chases and chases for freedom, yet can only live restrained, in the safety of companionship under someone else's roof.
-I am a pet, both of my own volition, and as a realistic goal for myself. There simply aren't higher order mental faculties present for me to be an adventurer, or my own individual. I will resort to being a pet -- and, through my incentives, try to be a good one at that. How long can I succeed at making people care for me?
-
-You're most likely looking for [[iii4n01_dummyfication]], part of the #III blog series.
+Name's issy. I'm a hissy missy. You're shamelessly standing on my blog index page. Would you mind *leaving*? Thank you. (ˊ•͈ ◡ •͈ˋ)♡
+Though, if you're going to intrude on my space, you're most likely looking for [[iii4n01_dummyfication]], the first entry of the #III blog series.
 
 ---
+## Guide
+Changes must be made from within the `v5` branch located in the `~/github/<.io page>/quartz/` repo. Do note that the `master` branch of the root folder is borked due to this being a repo-inside-a-repo. Fret not, as the GitHub Actions are set to run from the `v5` branch.
+- `cd ~/github/<.io page>/quartz/`
+- `git checkout v5`
+- Write/edit .md files in `quartz/content/` folder
+- `git add content/ && git commit -m "blog: [commit message]" && git push`
 ## References
 - [docs](https://quartz.jzhao.xyz) -> Documentation for Quartz 5
 - [celeste](https://youtu.be/dwLW9InfIyU) -> peak.

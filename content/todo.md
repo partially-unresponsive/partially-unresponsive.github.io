@@ -1,0 +1,4 @@
+- [ ] Settle for a good [Quartz theme](https://github.com/saberzero1/quartz-themes#supported-themes), preferably one that makes the Obsidian graph links actually visible, has prettier tags, working footers and `> subtext`. 
+- [ ] Hijack priority of `FiraCode Nerd Mono` font to default, second to `Caskaydia Cove`
+- [ ] Copy iii4n blog entries from local storage in `issyrepository/`
+- [ ] Create separate display page for Blender and other, non-blog creations

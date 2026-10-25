@@ -1,13 +1,13 @@
 ---
-title: III01
+title: iii4n01_dummyfication
 ---
-#III -> Issy's Illogical Inquiries 4 Nobody
-#python #data #books
 ```
 created: 06-09-2026 14:59
 status:  completed
 ```
+#III #python #data #books
 # 0x00. Introduction to III
+**III** -> Issy's Illogical Inquiries 4 Nobody
 - Hello hi. *Words.*
 - Blog! For less graphic things, which still require words, i.e., anything that isn't script-worthy. Like a second YT channel. Unlike most other blogs, this one doesn't have any *outright* inspirations or favorites, but I'm hoping for that to change as I'm actively looking for notable inspirations to follow on a self-hosted RSS feed[^1]. The name of III or iii or iii4n isn't set in stone, but I like the idea, and I doubt I'll encounter symbol ambiguity with roman symbols soon enough to care. Maybe I encourage it even, so that searching for me will be even harder. Who cares? Become ungovernable.
 - Name's issy, I'm hissy, time to spread missynformation. (,,>ヮ<,,)
