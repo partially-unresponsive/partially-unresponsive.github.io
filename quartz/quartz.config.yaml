@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: partially-unresponsive.github.io/quartz
+  baseUrl: partially-unresponsive.github.io
   ignorePatterns:
     - private
     - templates
@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Schibsted Grotesk
-      body: Fira Code
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -109,13 +109,11 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    options:
-      body: '"JetBrains Mono", monospace'
     enabled: true
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "comfort-dark"
+      theme: default
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
