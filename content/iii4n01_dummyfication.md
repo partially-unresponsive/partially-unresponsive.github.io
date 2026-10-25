@@ -1,4 +1,5 @@
 ---
+title: III01
 type: blog
 hastags: python, data, books
 created: 06-09-2026 14:59
@@ -17,8 +18,7 @@ status: completed
 
 [^2]: Values based off of what's been published to Goodreads. I'm assuming that books that haven't been reviewed or credited on that website don't really have an audience.
 # 0x02. The Spreadsheet
-- ...I instantly decided to make a spreadsheet with *all of them!*
-![[Pasted image 20260906142921.png]]
+- ...I instantly decided to make a spreadsheet with *all of them!*![[Pasted image 20261025110313.png]]
 > The Dummyfication spreadsheet in all its glory, displayed in Google Sheets.[^3] It houses 7 categories, 3 of which (`BookURL, AuthorURL, CoverImageURL`) are not displayed properly, though I could, in the future, have a better visualizer. I've also un-italicized the ratings later, as why in the hell would I want them to look like *that*?
 
 >[!note]
@@ -32,7 +32,7 @@ I've since removed all seemingly non-Dummy books from my spreadsheet, but just i
 
 [^3]: I would like to have a prettier display for the spreadsheet, maybe in a different CSV visualizer, but this is good for now. I'll die before submitting myself to using default Markdown tables, and I like the font variation and color gradients, as well as the searching and category features.
 # 0x03. The How
-![[carbon.png]]
+![[Pasted image 20261025110335.png]]
 > The entire code file rendered using [Carbon](https://carbon.now.sh/) using Lucario theming because I like the pokemon. Full source code available in `~/github/Dummyfication/parseList.py` or in a private GitHub repo.
 - Python script. There were many ways of going about this -- maybe there's an API, maybe go through Amazon listings, maybe- *nope*. Dead simple HTML parsing approach with BS4 for dummy me, and I think it worked well enough -- besides the 7 entries in my spreadsheet with malformed data, we don't talk about those. (¬_¬")💢
 # 0x04. ceil()
@@ -46,9 +46,9 @@ I've since removed all seemingly non-Dummy books from my spreadsheet, but just i
 
 [^6]: The program can technically be extended to work on any Listopia list by simply `curl`ing the N pages necessary to get through, then performing the parsing. I'll get by with just manually supplying the HTML files for now using the "Save Page as HTML" feature.
 
-![[transbian_camaricones.png]]
+![[Pasted image 20261025110347.png]]
 > unrelated but cute lil' Dummy shrimp from the aqueerium :3 [credit](https://x.com/omnicshrimp/status/2095091806341898717)
 
 # 0x05. Extra: Schaums Outlines
-![[Pasted image 20260911140229.png]]
+![[Pasted image 20261025110352.png]]
 > P.S.: I also made a spreadsheet for the Schaum's books. Neato. I'm interested in basically everything here, but would like to put my efforts into something practical for once xP
