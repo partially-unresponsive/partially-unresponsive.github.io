@@ -1,0 +1,4 @@
+issy's book club! 12 entries per year with a review associated to it. doesn't include everything i read -- that would be found [here](https://www.goodreads.com/user/show/151053599-saidano). the book club focuses on the most impactful book of each month!
+## Dune by Frank Herbert [October '26]
+> Deserving of all my love and time investment. Incredible pull on my attention all the way through, with excitement and thrill that I only replicate for reading C. S. Pacat's books. The longest book I've finished thus far, inspiring me to complete over 600 pages on one volume alone, but I doubt this length record will remain for long.
+> Made me finish the second volume within 24 hours.
