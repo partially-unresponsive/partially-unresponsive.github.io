@@ -17,7 +17,7 @@ title: iii4n01_dummyfication
 > The Dummyfication spreadsheet in all its glory, displayed in Google Sheets.[^3] It houses 7 categories, 3 of which (`BookURL, AuthorURL, CoverImageURL`) are not displayed properly, though I could, in the future, have a better visualizer. I've also un-italicized the ratings later, as why in the hell would I want them to look like *that*?
 
 >[!note]
-I've since removed all seemingly non-Dummy books from my spreadsheet, but just in case, here they are:
+> I've since removed all seemingly non-Dummy books from my spreadsheet, but just in case, here they are:
 > - *Find Your Wild: How to honor Your True Nature and Go After Your Dreams!*
 > - *Creating Abundance & Living Generously*
 > - *Talk to Me I'm Grieving: Supportive Ways to Help Someone Through Grief*
