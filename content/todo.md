@@ -2,3 +2,5 @@
 - [ ] Hijack priority of `FiraCode Nerd Mono` font to default, second to `Caskaydia Cove`
 - [ ] Copy iii4n blog entries from local storage in `issyrepository/`
 - [ ] Create separate display page for Blender and other, non-blog creations
+- [ ] Explore [other blogs](https://quartz.jzhao.xyz/showcase) 
+- [ ] Explore potential JS
