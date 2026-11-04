@@ -29,3 +29,8 @@
 >[!quote]
 >businessbun 🎔
 >*-Gwen*
+
+>[!quote]
+>One of today's lucky 10000.
+>*-[xkcd 1053](https://xkcd.com/1053/)*
+
