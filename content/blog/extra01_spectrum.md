@@ -1,4 +1,5 @@
-## rosy maple moth
+# III extras 01: Create Spectrum
+## 0x01. rosy maple moth
 `13-09-2026 12:36`
 - As I'm trying to obtain my long socks to negate fall damage, I was struggling to find the material -- moth fuzz. Apparently it's from the **@Estrogen** mod, requiring me to shear these rosy maple moth creatures that spawn at night in the Dark Oak Forests. 
 - I was struggling to find any of them, though I did eventually find one. But shearing it did nothing, so...
@@ -54,7 +55,7 @@ From the code snippet above (which I had to git clone the [Estrogen mod](https:/
 2. The noise it makes when it fuzzes up is rather scrapy.
 3. When fuzzed up, it creates 7 fuzzy particles that moves a distance of 0.6 units in the X and Z directions
 4. Moths can be bred with any item of the `LEATHER_ITEMS` tag (which includes leather, leather armor and...*leather horse armor?!* but NOT tanned leather), giving you the rare and *very* cute baby moth :3
-## NutritionZ
+## 0x02. NutritionZ
 ![[Pasted image 20261026021159.png]]
 > NutritionZ default vanilla carbs/protein/fats/vitamins/minerals nutrition table, stored within `nutrition/vanilla_items.json` on [GitHub](https://github.com/xR4YM0ND/NutritionZ/blob/1.21/src/main/resources/resourcepacks/minecraft_nutritionz/data/minecraft/nutrition/vanilla_items.json)
 

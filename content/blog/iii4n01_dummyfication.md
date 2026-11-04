@@ -7,7 +7,7 @@ title: iii4n01_dummyfication
 - Name's issy, I'm hissy, time to spread missynformation. (,,>ヮ<,,)
 
 [^1]: Possibly the basis for iii#02
-# 0x01. A Dummy's Motivation for For Dummies
+# 0x01. A Dummy's Motivation for *For Dummies*
 - The [For Dummies](https://www.goodreads.com/list/show/2683.For_Dummies_Series) book series (which you can read the wiki page of in less than 600 words), consisting of 333 different books and 288 separate authors[^2] (35 books being written by a "Goodreads Author"), seems just neat to me. It's varied in subjects, with many different authors, with an immediately recognizable cover art and book content, and always some [The 5th Wave](https://en.wikipedia.org/wiki/The_5th_Wave_(comic_strip)) comic strip that is completely incomprehensible to me. Even though there are only 3 books outright advertised for seniors in their name, it feels like there should be more, given that the purpose of the book series is to be short and precise in simple words as to not be intimidating. Or maybe seniors don't mind being intimidated. Who knows?
 - Anyways, saw a video on my feed made by [The Thread Theory](https://youtu.be/aWkNRy880Mo) about why giving this series a try is worth it, and, without bothering to even watch it or see his talking points... 
 
