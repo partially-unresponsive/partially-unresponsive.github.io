@@ -10,6 +10,7 @@ testing
 1. Books must have been originally published *before 2022*. I don't really trust random Amazon authors, nor book covers that look too good to be true.
 2. My value scheme follows: sci-fi > fiction > educational > non-fiction >>> self-help and "American Classics"[^1].
 3. Aligning my book/author choices to neat events/holidays is fun! I'm more likely to choose a story by [Liu Ken](https://www.goodreads.com/book/show/39803561-the-paper-menagerie) around the [Lunar New Year](https://en.wikipedia.org/wiki/Lunar_New_Year), for example.
+4. I am *scared* of Russian authors, but I swear I will be able to say "I have read War and Peace" someday. Probably willing to give Pushkin a go.  
 
 ## Dune by Frank Herbert [October '26] ⁠♡⁠
 ![[Pasted image 20261026085621.png]]
