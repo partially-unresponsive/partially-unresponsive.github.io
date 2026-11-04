@@ -6,6 +6,9 @@ testing
 - [ ] "Children of Dune" by Frank Herbert
 - [ ] "House of Leaves" by Mark Z. Danielewski
 - [ ] ...one non-obscure book each referenced by Hakita, Dead Cells or Enter the Gungeon
+### Requirements
+1. Books must have been originally published *before 2022*. I don't really trust random Amazon authors, nor book covers that look too good to be true.
+2. I'm valuing sci-fi
 
 ## Dune by Frank Herbert [October '26] ⁠♡⁠
 ![[Pasted image 20261026085621.png]]
