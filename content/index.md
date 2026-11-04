@@ -1,7 +1,8 @@
 ---
 title: welcome
 ---
-![[redstars_banner_300prcnt.gif]]
+![[Pasted image 20261104160217.png]]
+> lasso teto by [meltypen](https://www.tumblr.com/meltypen/751194053817909248/teto-doodles-i-did-with-the-lasso-tool?source=share) ♡
 
 `[ START NOTE ]`
 ## issy's misdemeaning characters
