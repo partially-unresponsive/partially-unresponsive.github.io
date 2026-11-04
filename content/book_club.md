@@ -1,11 +1,11 @@
-issy's book club! 12 entries per year with a review associated to it. doesn't include everything i read -- that would be found [here](https://www.goodreads.com/user/show/151053599-saidano). the book club focuses on the most impactful book of each month!
+issy's book club! 12 entries per year with a review associated to it. doesn't include everything i read -- that would be found [here](https://www.goodreads.com/user/show/151053599-issy). the book club focuses on the most impactful book of each month!
 testing
 
 ## Upcoming Reads
 - [ ] "The Martian" by Andy Weir
 - [ ] "Children of Dune" by Frank Herbert
 - [ ] "House of Leaves" by Mark Z. Danielewski
-- [ ] ...one non-obscure book referenced by Hakita, Dead Cells or Enter the Gungeon
+- [ ] ...one non-obscure book each referenced by Hakita, Dead Cells or Enter the Gungeon
 
 ## Dune by Frank Herbert [October '26] ⁠♡⁠
 ![[Pasted image 20261026085621.png]]
