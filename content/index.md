@@ -1,7 +1,7 @@
 ---
 title: welcome
 ---
-[ START NOTE ]
+`[ START NOTE ]`
 ## issy's misdemeaning characters
 Name's issy. I'm a hissy missy. You're shamelessly standing on my blog index page. Would you mind *leaving*? Thank you. (ˊ•͈ ◡ •͈ˋ)♡
 Though, if you're going to intrude on my space, you're most likely looking for [[iii4n01_dummyfication]], the first entry of the III blog series.
@@ -28,4 +28,4 @@ There is a **systemd service** running every 5 minutes at `~/.config/systemd/use
 ![[Pasted image 20261104131339.png]]
 [Made By Humans](https://eniko.itch.io/cute-fox-no-ai-notice)
 
-[ END NOTE ]
+`[ END NOTE ]`
