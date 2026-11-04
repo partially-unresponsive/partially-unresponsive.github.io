@@ -14,6 +14,7 @@ Changes must be made from within the `v5` branch located in the `~/github/<.io p
 - `git checkout v5`
 - Write/edit .md files in `quartz/content/` folder
 - `git add content/ && git commit -m "blog: [commit message]" && git push`
+There is a **systemd service** running every 5 minutes at `~/.config/systemd/user/obsidian-sync.timer` looking for changes in the notes, and pushing any changes. mrrow~ 
 ## References
 - [docs](https://quartz.jzhao.xyz)    -> Documentation for Quartz 5
 - [celeste](https://youtu.be/dwLW9InfIyU) -> peak.
@@ -22,3 +23,6 @@ Changes must be made from within the `v5` branch located in the `~/github/<.io p
 - [goodreads](https://www.goodreads.com/user/show/151053599-saidano)  -> book reviews
 
 [^1]: Planning to move away from GSheet when I'm given a better FOSS alternative
+
+![[Pasted image 20261104131339.png]]
+[Made By Humans](https://eniko.itch.io/cute-fox-no-ai-notice)

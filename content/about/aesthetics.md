@@ -1,3 +1,6 @@
+![[Pasted image 20261104131037.png]]
+> Maddy's Celeste spreadsheet for Strawberry Jam
+
 ![[Pasted image 20261026082128.png]]
 > "A World where People Die" Celeste map by [Kailey the Alien](https://gamebanana.com/mods/559871)[^2]
 
