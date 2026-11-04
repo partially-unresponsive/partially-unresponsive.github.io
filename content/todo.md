@@ -6,5 +6,6 @@
 - [ ] Explore potential JS toys and doodles and hijinks (and see if GH Pages even allows it if it's a static page onyo)
 - [ ] Grab a bunch of 88x31 icons
 - [ ] Sort my notes *non*-alphanumerically (i hate it and i'm NOT going to add number prefixes to all my notes like `01_index.md`, `02_quotes.md` etc. be wacky, sort it by *length* and give me the girthiest on top. also colored folders)
+- [ ] Try to replicate [PITR's](https://pitr.dev/) cool button on-hover effect
 
 - [ ] ⌬ Add a `/wiki` folder for a locally hosted wiki
