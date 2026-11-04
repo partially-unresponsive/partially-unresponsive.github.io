@@ -1,6 +1,8 @@
 ---
 title: welcome
 ---
+![[teto_banner.png]]
+
 `[ START NOTE ]`
 ## issy's misdemeaning characters
 Name's issy. I'm a hissy missy. You're shamelessly standing on my blog index page. Would you mind *leaving*? Thank you. (ˊ•͈ ◡ •͈ˋ)♡
