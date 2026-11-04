@@ -1,7 +1,7 @@
 ---
 title: welcome
 ---
-![[teto_banner.png]]
+![[redstars_banner_300prcnt.gif]]
 
 `[ START NOTE ]`
 ## issy's misdemeaning characters
