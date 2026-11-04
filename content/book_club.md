@@ -16,4 +16,4 @@ testing
 > Deserving of all my love and time investment. Incredible pull on my attention all the way through, with excitement and thrill that I only replicate for reading C. S. Pacat's books. The longest book I've finished thus far, inspiring me to complete over 600 pages on one volume alone, but I doubt this length record will remain for long.
 > Made me finish the second volume within 24 hours.
 
-[^1]: Trying to read *"Breakfast of Champions"* or "The Great Gatsby"
+[^1]: Trying to read *"Breakfast of Champions"* or *"The Great Gatsby"* has been traumatic (/hyp), boring, and littered with local references I have no idea or heritage about. 
